@@ -311,6 +311,12 @@ please preview your site before committing, and make sure to run
 
 <hr/>
 
+<h2 id="resources">Resources</h2>
+
+{% include swc/resources.html %}
+
+<hr/>
+
 {% comment %}
 SETUP
 
